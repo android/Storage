@@ -1,5 +1,5 @@
 
-Android ACTION_OPEN_DOCUMENT Sample
+Android ACTION_OPEN_DEVICE
 ========================================
 
 <div align="center">
